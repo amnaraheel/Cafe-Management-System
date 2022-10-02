@@ -29,9 +29,10 @@ Pyodbc:
 The pyodbc library provides Python developers with easy access to ODBC (Open Database Connectivity) databases. Therefore, you can implement the method given in this section to set up Python ODBC integrations with any platforms such as MS Access, MySQL, IBM Db2, etc.
 
 
-"Main Functions"
+# Main Functions
 
 Start_tab: 
+
 It displays a button of Café Manager and on pressing that button it takes us to the function cust_admin_emp.
 Cust_admin_emp: It displays 3 buttons of Customer, Admin, Employee. On pressing Customer button, we go to the customer1 function. On pressing the Admin Button, we go to the admin function and on pressing the employee function it takes us to employee1 function.
 
