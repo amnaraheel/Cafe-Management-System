@@ -1,9 +1,9 @@
-"Cafe-Management-System"
+# Cafe-Management-System
 
 The main objective of this project is to provide fast and easy service to the customers, admin, and employees of the cafe. This management system will reduce the manual work for managing the café. I have applied all the knowledge I gained about database system so far along with my knowledge about python and Kivy for the execution of this Café Management system.
 
 
-"Libraries"
+# Libraries
 
 Following libraries have been used to:
 -	import kivy
@@ -18,7 +18,7 @@ Following libraries have been used to:
 -	import pyodbc as odbccon
 
 
-"Brief Description of the Libraries used"
+# Brief-Description-of-the-Libraries-used
 
 Kivy:
 
