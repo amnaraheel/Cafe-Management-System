@@ -48,7 +48,7 @@ It takes us to a login page for the admin and after logging in we go to a new fu
 
 It takes us to the login page for the employee and after logging in we go to another function employee1. Employee1 further has a form for the employee to fill which includes inserting Id, Name, Cellphone, Email, and Job. After submitting this, the information is inserted into the Employee table in the database and the admin can view this change in its module. 
 
-## Essentials for Running the code:
+## Essentials to run the App:
 - Pyodbc Library
 - Kivy Library
 - Basic knowledge about Python and Database Management system
